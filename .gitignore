@@ -1,3 +1,6 @@
+.DS_Store
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# the version file
+calciumcurator/_version.py
